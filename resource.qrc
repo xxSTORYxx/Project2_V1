@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/US_Army.jpg</file>
+        <file>picture/soldier_4.jpg</file>
+        <file>picture/soldier_3.jpg</file>
+        <file>picture/soldier_2.jpg</file>
+        <file>picture/soldier_1.jpg</file>
+        <file>picture/myCastle.png</file>
+        <file>picture/hero_3.jpg</file>
+        <file>picture/hero_2.jpg</file>
+        <file>picture/hero_1.jpg</file>
+        <file>picture/helper_3.jpg</file>
+        <file>picture/helper_2.jpg</file>
+        <file>picture/helper_1.jpg</file>
+        <file>picture/enemyCastle.png</file>
+        <file>picture/green.png</file>
+        <file>picture/red.png</file>
+        <file>picture/purple.png</file>
+        <file>picture/glasses.png</file>
+        <file>picture/fox.png</file>
+        <file>picture/cloth.png</file>
+        <file>picture/boy.png</file>
+        <file>picture/brown.png</file>
+        <file>picture/black.png</file>
+        <file>picture/yellow.png</file>
+    </qresource>
+</RCC>

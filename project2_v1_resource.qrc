@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/background.wav</file>
+        <file>picture/US_Army.jpg</file>
+    </qresource>
+</RCC>
